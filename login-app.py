@@ -163,7 +163,7 @@ class Controller: #aplikace pro prihlasovani a zakladani uzivatelu
 
 data_storage = Data_storage()
 data_storage.add_user("Honza", "123456", 20, "svehl.jan@gmail.com")
-data_storage.add_user("Honza", "123456", 21, "svehl.jan@gmail.com")
+data_storage.add_user("Honza", "123456", 25, "svehl.jan@gmail.com")
 data_storage.add_user("Honza", "123456", 22, "svehl.jan@gmail.com")
 data_storage.add_user("Honza", "123456", 23, "svehl.jan@gmail.com")
 
